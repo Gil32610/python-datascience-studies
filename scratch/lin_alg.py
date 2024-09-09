@@ -1,7 +1,7 @@
 from typing import List, Tuple, Callable
 import math
 
-# Alias to describe a Vector as simply List[float]
+
 Vector = List[float]
 Matrix = List[List[float]]
 
